@@ -1,34 +1,33 @@
 <ul>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(1).pdf" style="text-decoration:none;">Impacts of Applied Genetics: Micro-Organisms, Plants, and Animals </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(2).pdf" style="text-decoration:none;">Applied Genetics of Leguminosae Biotechnology</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(3).pdf" style="text-decoration:none;">Evolutionary Biology</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(4).pdf" style="text-decoration:none;">Genetic Algorithms in Molecular Modeling </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(5).pdf" style="text-decoration:none;">Genetic Engineering of Horticultural Crops </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(1).pdf" style="text-decoration:none;">Microbiology: A Laboratory Manual </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(2).pdf" style="text-decoration:none;">Fundamentals of Microbiology</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(3).pdf" style="text-decoration:none;">Microbiology and Biochemistry of Cheese and Fermented Milk</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(4).pdf" style="text-decoration:none;">Medical Microbiology: The Big Picture  </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(5).pdf" style="text-decoration:none;">Practical Microbiology </a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(6).pdf" style="text-decoration:none;">Genetic Modification of Plants: Agriculture, Horticulture and Forestry</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(6).pdf" style="text-decoration:none;">A Photographic Atlas for the Microbiology. Laboratory</a></b></li>
                           
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(7).pdf" style="text-decoration:none;">Genetics For Dummies </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(8).pdf" style="text-decoration:none;">MOLECULAR BIOLOGY AND APPLIED GENETICS For Medical Laboratory Technician Students</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(9).pdf" style="text-decoration:none;">Microbial Genetics Applied to Biotechnology : Principles and Techniques of Gene Transfer and Manipulation</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(7).pdf" style="text-decoration:none;">Microbiology: Step 1 v. 1 (Blackwell Underground Clinical Vignettes S.) </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(8).pdf" style="text-decoration:none;">Medical Microbiology and Infection: Lecture Notes</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(9).pdf" style="text-decoration:none;">A Concise Manual of Pathogenic Microbiology</a></b></li>
                                 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(10).pdf" style="text-decoration:none;">The Mycota: A Comprehensive Treatise on Fungi as Experimental Systems for Basic and Applied Research</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(10).pdf" style="text-decoration:none;">Immunology and Microbiology</a></b></li>  
         
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(11).pdf" style="text-decoration:none;">The Basics of Genetics </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(12).pdf" style="text-decoration:none;">The Prokaryotes: Applied Bacteriology and Biotechnology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(11).pdf" style="text-decoration:none;">Microbiology </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(12).pdf" style="text-decoration:none;">Microorganisms in Foods 7</a></b></li>
                                 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(13).pdf" style="text-decoration:none;"> Applied Cell and Molecular Biology for Engineers</a></b></li>                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(13).pdf" style="text-decoration:none;"> Wastewater Microbiology</a></b></li>                               
                                 
                                           
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(14).pdf" style="text-decoration:none;">Computational Molecular Biology: An Introduction</a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(15).pdf" style="text-decoration:none;">Dictionary of Microbiology and Molecular Biology</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(14).pdf" style="text-decoration:none;">Microbial Biotechnology: Fundamentals of Applied Microbiology</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(15).pdf" style="text-decoration:none;">Microbiology Demystified</a></b></li>
 
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(16).pdf" style="text-decoration:none;">Genes, Hearing, and Deafness: From Molecular Biology to Clinical Practice</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(17).pdf" style="text-decoration:none;">Artificial Intelligence and Molecular Biology</a></b></li>
-      <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(18).pdf" style="text-decoration:none;">Molecular and Cell Biology For Dummies</a></b></li>                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(16).pdf" style="text-decoration:none;">Introductory Microbiology</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(17).pdf" style="text-decoration:none;">Hugo and Russell's Pharmaceutical Microbiology</a></b></li>
+      <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(18).pdf" style="text-decoration:none;">Pharmaceutical Microbiology</a></b></li>                               
                                                        
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(19).pdf" style="text-decoration:none;">Molecular Biology and Biotechnology</a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(20).pdf" style="text-decoration:none;">Plant Cell Biology: From Astronomy to Zoology</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(20).pdf" style="text-decoration:none;">Nester's Microbiology: A Human Perspective</a></b></li>
 
   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(21).pdf" style="text-decoration:none;">Principles and Techniques of Biochemistry and Molecular Biology</a></b></li>
