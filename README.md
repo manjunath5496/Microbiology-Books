@@ -30,13 +30,13 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(20).pdf" style="text-decoration:none;">Nester's Microbiology: A Human Perspective</a></b></li>
 
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(21).pdf" style="text-decoration:none;">Principles and Techniques of Biochemistry and Molecular Biology</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(22).pdf" style="text-decoration:none;">Schaum's Easy Outline Molecular and Cell Biology</a></b></li>
-      <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(23).pdf" style="text-decoration:none;">The Dictionary of Cell and Molecular Biology</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(21).pdf" style="text-decoration:none;">Microbiology of Waterborne Diseases</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(22).pdf" style="text-decoration:none;">Handbook of Microbiological Quality Control: Pharmaceuticals and Medical Devices</a></b></li>
+      <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(23).pdf" style="text-decoration:none;">MICROBIOLOGY</a></b></li>  
       
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(24).pdf" style="text-decoration:none;">The Manga Guide to Molecular Biology</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(25).pdf" style="text-decoration:none;">The Molecular Biology of Cancer</a></b></li>
-      <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(26).pdf" style="text-decoration:none;">Fundamental Molecular Biology</a></b></li>          
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(24).pdf" style="text-decoration:none;">Microbiological analysis of red meat, poultry and eggs</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(25).pdf" style="text-decoration:none;">Clinical Microbiology</a></b></li>
+      <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(26).pdf" style="text-decoration:none;">Manual of Clinical Microbiology</a></b></li>          
                                
  
  </ul>
