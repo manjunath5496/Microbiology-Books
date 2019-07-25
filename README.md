@@ -11,7 +11,7 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(8).pdf" style="text-decoration:none;">Medical Microbiology and Infection: Lecture Notes</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(9).pdf" style="text-decoration:none;">A Concise Manual of Pathogenic Microbiology</a></b></li>
                                 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(10).pdf" style="text-decoration:none;">Immunology and Microbiology</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(10).pdf" style="text-decoration:none;">Immunology and Microbiology (Lecture Notes)</a></b></li>  
         
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(11).pdf" style="text-decoration:none;">Microbiology </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(12).pdf" style="text-decoration:none;">Microorganisms in Foods 7</a></b></li>
@@ -37,7 +37,7 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(24).pdf" style="text-decoration:none;">Microbiological analysis of red meat, poultry and eggs</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(25).pdf" style="text-decoration:none;">Clinical Microbiology</a></b></li>
       <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(26).pdf" style="text-decoration:none;">Manual of Clinical Microbiology</a></b></li>          
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(27).pdf" style="text-decoration:none;">Clinical Microbiology</a></b></li>
-      <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(26).pdf" style="text-decoration:none;">Manual of Clinical Microbiology</a></b></li>                                
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(27).pdf" style="text-decoration:none;">Immunology and Microbiology</a></b></li>
+      <li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/ag(28).pdf" style="text-decoration:none;">Essential Microbiology</a></b></li>                                
  
  </ul>
